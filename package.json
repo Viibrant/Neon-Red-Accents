@@ -1,0 +1,22 @@
+{
+    "name": "neon-red-accents",
+    "publisher": "Viibrant",
+    "displayName": "Neon Red Accents",
+    "description": "Just a simple play about",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Neon Red Accents",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Neon Red Accents-color-theme.json"
+            }
+        ]
+    }
+}
